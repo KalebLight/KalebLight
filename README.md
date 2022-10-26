@@ -11,7 +11,8 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleblight&layout=compact&theme=dark&show_icons=true"/>
 </div>
 
-<div align="center" width="100%">
- <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vue,docker,git,vscode)](https://skillicons.dev)"/>
-</div>
-
+<p align="center">
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vue,styledcomponents,sass,docker,git,vscode)](https://skillicons.dev)"/>
+ </a>
+</p>
