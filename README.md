@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🖥️ Procuro vagas para Front-End!
+- 🖥️ Atualmente trabalho com desenvolvimento mobile!
 - 🎓 Formado em: Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFRN
 - 📫 Email: kaleb.luiz00@gmail.com
 
