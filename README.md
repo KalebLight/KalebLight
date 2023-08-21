@@ -13,6 +13,6 @@
 
 <p align="center">
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vue,styledcomponents,sass,docker,git,vscode)](https://skillicons.dev)"/>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,html,css,bootstrap,js,react,vue,styledcomponents,sass,docker,git,vscode)](https://skillicons.dev)"/>
  </a>
 </p>
