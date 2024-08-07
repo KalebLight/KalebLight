@@ -4,7 +4,7 @@
 - 🎓 Formado em: Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFRN
 - 📫 Email: kaleb.luiz00@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaleb-luiz-4590a61ab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalebluiz/)
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaleblight&theme=dark&show_icons=true"/>
